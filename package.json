@@ -1,5 +1,5 @@
 {
-	"aurthor": "Deandre Clark",
+	"author": "Deandre Clark",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
